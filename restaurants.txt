@@ -1,0 +1,5 @@
+abc	indian	100
+macD	fast food	150
+pizza hut	italian	1000
+agent jacks	bar	1000
+kolhapuri	maharashtrian 	120
